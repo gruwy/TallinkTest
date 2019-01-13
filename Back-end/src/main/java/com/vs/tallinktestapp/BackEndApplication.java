@@ -21,6 +21,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 @SpringBootApplication
 @ComponentScan(basePackages = {"com.vs.tallinktestapp.*"})
 @CrossOrigin
+@EnableJpaRepositories("com.vs.tallinktestapp.repository")
 public class BackEndApplication {
 	
 	@Autowired
