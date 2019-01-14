@@ -8,7 +8,8 @@ import org.mapstruct.*;
 @Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.IGNORE, uses = EntityMapper.class)
 public interface ConferenceMapper {
     
-	@Mapping(source="conferenceRoom", target="roomId")
+	// Initializing methods
+	@Mapping(source = "conferenceRoom", target = "roomId")
     ConferenceDataTransferObject toDTO(ConferenceEntity conference);
 
     @InheritInverseConfiguration

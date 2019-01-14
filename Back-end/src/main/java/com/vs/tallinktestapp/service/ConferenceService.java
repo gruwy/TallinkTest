@@ -9,7 +9,9 @@ import java.util.Optional;
 
 
 public interface ConferenceService {
-    Optional<ConferenceDataTransferObject> getConference(Long id);
+    
+	// Initializing
+	Optional<ConferenceDataTransferObject> getConference(Long id);
 
     void saveConference(ConferenceDataTransferObject conferenceDTO);
 

@@ -13,10 +13,12 @@ import java.util.Optional;
 @Repository
 public interface ParticipantRepository  extends JpaRepository<ParticipantEntity, Long> {
     
+	// Initializing
 	Optional<ParticipantEntity> findById(Long id);
-
+	
+	// Query 
     @Modifying
-    @Query("delete from ParticipantEntity c where c.id = :id")
+    @Query("DELETE FROM ParticipantEntity c WHERE c.id = :id")
     void delete(@Param("id") Long id);
     
 }

@@ -11,16 +11,16 @@ import org.springframework.stereotype.Component;
 @Component
 public class EntityMapper {
     
+	// Initializing
 	@Autowired
     private ConferenceRoomRepository conferenceRoomRepository;
 
-    public ConferenceRoomEntity toReference(long id) {
+    // Reference method
+	public ConferenceRoomEntity toReference(long id) {
         Optional<ConferenceRoomEntity> conference_room = this.conferenceRoomRepository.findById(id);
         if (conference_room.isPresent()) {
         	return conference_room.get();
-        } else { 
-        	return null;}
-    
+        } else { return null; }
     }
 
     public long toReference(ConferenceRoomEntity entity) {

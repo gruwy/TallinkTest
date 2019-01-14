@@ -8,7 +8,9 @@ import org.springframework.data.domain.Pageable;
 import java.util.Optional;
 
 public interface ParticipantService {
-    Page<ParticipantDataTransferObject> findParticipant(Pageable pageable);
+    
+	// Initializing
+	Page<ParticipantDataTransferObject> findParticipant(Pageable pageable);
 
     Optional<ParticipantDataTransferObject> getParticipant(Long id);
 

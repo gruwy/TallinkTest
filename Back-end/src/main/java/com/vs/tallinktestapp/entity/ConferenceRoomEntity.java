@@ -28,7 +28,7 @@ public class ConferenceRoomEntity {
     @Max(MAX_SEATS)
     private int roomSeats;
 
-    // Queries
+    // Relational database operations
     @OneToMany(mappedBy = "conferenceRoom", fetch = FetchType.EAGER, cascade = CascadeType.ALL)
     private List<ConferenceEntity> conferences = new ArrayList<>();
     
@@ -66,7 +66,6 @@ public class ConferenceRoomEntity {
     }
     
     // Conference
-   
     public List<ConferenceEntity> getConferences() {
         return conferences;
     }

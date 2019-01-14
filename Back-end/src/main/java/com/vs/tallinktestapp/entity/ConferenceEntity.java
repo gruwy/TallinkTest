@@ -22,7 +22,7 @@ public class ConferenceEntity {
     @Column(name = "conference_dateandtime", nullable = false)
     private Date conferenceDateAndTime;
 
-    // Queries
+    // Relational database operations
     @ManyToMany(cascade = {CascadeType.ALL})
     @JoinTable(name = "conference_participant_association", joinColumns = {
     		@JoinColumn(name = "conference_id")}, 

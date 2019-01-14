@@ -16,12 +16,15 @@ import java.util.Optional;
 @Service
 @Transactional
 public class ConferenceServiceImplementation implements ConferenceService {
-    @Autowired
+    
+	// Initializing
+	@Autowired
     private ConferenceRepository conferenceRepository;
 
     @Autowired
     private ConferenceMapper conferenceMapper;
 
+    // Methods
     @Override
     public Optional<ConferenceDataTransferObject> getConference(Long id) {
         return this.conferenceRepository.findById(id).map(this.conferenceMapper::toDTO);

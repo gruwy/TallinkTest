@@ -16,12 +16,15 @@ import java.util.Optional;
 @Service
 @Transactional
 public class ParticipantServiceImplementation implements ParticipantService {
-    @Autowired
+    
+	//Initializing 
+	@Autowired
     private ParticipantRepository participantRepository;
 
     @Autowired
     private ParticipantMapper participantMapper;
-
+    
+    // Methods
     @Override
     public Page<ParticipantDataTransferObject> findParticipant(Pageable pageable) {
         return this.participantRepository.findAll(pageable).map(this.participantMapper::toDTO);

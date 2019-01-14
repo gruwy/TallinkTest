@@ -8,6 +8,7 @@ import org.mapstruct.*;
 @Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.IGNORE, uses = ConferenceMapper.class)
 public interface ConferenceRoomMapper {
     
+	// Initializing methods
 	ConferenceRoomDataTransferObject toDTO(ConferenceRoomEntity conferenceRoom);
 
     ConferenceRoomEntity toEntity(ConferenceRoomDataTransferObject conferenceRoomDTO);

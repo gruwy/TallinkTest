@@ -17,7 +17,8 @@ import java.util.Optional;
 @Transactional
 public class ConferenceRoomServiceImplementation implements ConferenceRoomService {
 	
-    @Autowired
+    // Initializing
+	@Autowired
     private ConferenceRoomRepository conferenceRoomRepository;
 
     @Autowired
@@ -26,6 +27,7 @@ public class ConferenceRoomServiceImplementation implements ConferenceRoomServic
     @Autowired
     private ConferenceMapper conferenceMapper;
 
+    // Methods
     @Override
     public Page<ConferenceRoomDataTransferObject> findRooms(Pageable pageable) {
         return this.conferenceRoomRepository.findAll(pageable).map(conferenceRoomMapper::toDTO);

@@ -9,7 +9,8 @@ import java.util.Optional;
 
 public interface ConferenceRoomService {
 	
-    Page<ConferenceRoomDataTransferObject> findRooms(Pageable pageable);
+    // Initializing
+	Page<ConferenceRoomDataTransferObject> findRooms(Pageable pageable);
 
     Optional<ConferenceRoomDataTransferObject> getRoom(Long id);
 

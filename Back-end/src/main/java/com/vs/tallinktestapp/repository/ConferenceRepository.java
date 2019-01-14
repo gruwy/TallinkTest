@@ -13,9 +13,11 @@ import java.util.Optional;
 @Repository
 public interface ConferenceRepository extends JpaRepository<ConferenceEntity, Long> {
     
+	// Initializing
 	Optional<ConferenceEntity> findById(Long id);
 
-    @Modifying
+    // Query
+	@Modifying
     @Query("DELETE FROM ConferenceEntity c WHERE c.id = :id")
     void delete(@Param("id") Long id);
     

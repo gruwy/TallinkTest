@@ -8,6 +8,7 @@ import org.mapstruct.*;
 @Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.IGNORE)
 public interface ParticipantMapper {
     
+	// Initializing methods
 	ParticipantDataTransferObject toDTO(ParticipantEntity participant);
 
     ParticipantEntity toEntity(ParticipantDataTransferObject participantDTO);
