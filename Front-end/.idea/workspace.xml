@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c6c7204-9453-42e3-a496-49e8121eac48" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/axios/axios.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/route/route.js" />
+        <option value="$PROJECT_DIR$/src/actions/actions.js" />
+        <option value="$PROJECT_DIR$/src/reducer/conferenceReducer.js" />
+        <option value="$PROJECT_DIR$/src/reducer/roomReducer.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1236" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="axios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reducer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TallinkTask-master/react-frontend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\My Projects\Tallink\front-end\node_modules\eslint" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="App.js" working-dir="$PROJECT_DIR$/src" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c6c7204-9453-42e3-a496-49e8121eac48" name="Default" comment="" />
+      <created>1547473658996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547473658996</updated>
+      <workItem from="1547473660833" duration="6541000" />
+      <workItem from="1547680069704" duration="891000" />
+      <workItem from="1547990652108" duration="2206000" />
+      <workItem from="1548008253960" duration="5230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14868000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1236" height="1040" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21393442" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13066955" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.32908705" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="131" column="32" selection-start-line="131" selection-start-column="32" selection-end-line="131" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="131" column="32" lean-forward="true" selection-start-line="131" selection-start-column="32" selection-end-line="131" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="131" column="32" lean-forward="true" selection-start-line="131" selection-start-column="32" selection-end-line="131" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="131" column="32" selection-start-line="131" selection-start-column="32" selection-end-line="131" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/My Projects/Tallink/front-end">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDDefineDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js#AMDDefineDependency#325;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js#AMDRequireArrayDependency#387;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js#AMDRequireContextDependency#193;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js#AMDRequireItemDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js#ConstDependency#271;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js#ContextDependencyHelpers#527;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js#LocalModuleDependency#461;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js#LocalModulesHelpers#599;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDPlugin.js#AMDDefineDependency#439;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#AMDDefineDependencyParserPlugin#784;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#AMDRequireArrayDependency#287;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#AMDRequireContextDependency#361;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#AMDRequireDependenciesBlockParserPlugin#682;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#AMDRequireDependency#151;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#AMDRequireItemDependency#215;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#AliasPlugin#871;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#LocalModuleDependency#567;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#NullFactory#634;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#ParserHelpers#937;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#UnsupportedDependency#501;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDPlugin.js#path#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireArrayDependency.js#Dependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireContextDependency.js#ContextDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireContextDependency.js#ContextDependencyTemplateAsRequireCall.js#444;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlock.js#AMDRequireDependency#189;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlock.js#AsyncDependenciesBlock#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#AMDRequireArrayDependency#193;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#AMDRequireContextDependency#267;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#AMDRequireDependenciesBlock#345;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#AMDRequireItemDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#ConstDependency#689;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#ContextDependencyHelpers#555;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#LocalModuleDependency#489;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#LocalModulesHelpers#627;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#UnsupportedDependency#423;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#UnsupportedFeatureWarning#809;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js#getFunctionExpression#743;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireItemDependency.js#ModuleDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/AMDRequireItemDependency.js#ModuleDependencyTemplateAsRequireId#176;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/APIPlugin.js#ConstDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/APIPlugin.js#NullFactory#239;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/APIPlugin.js#ParserHelpers#188;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/AggressiveMergingPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/AggressiveSplittingPlugin.js#SetHelpers.js#192;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/AggressiveSplittingPlugin.js#identifierUtils#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/AggressiveSplittingPlugin.js#schema#278;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/AggressiveSplittingPlugin.js#validateOptions#229;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/AggressiveSplittingPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/enhanced-resolve/lib/AliasPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/AmdMainTemplatePlugin.js#Template#176;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/AmdMainTemplatePlugin.js#index.js#142;</node>
+            <node x="" y="">$PROJECT_DIR$/src/App.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/src/App.css</node>
+            <node x="" y="">$PROJECT_DIR$/src/App.js#App.css#73;D:/My Projects/Tallink/front-end/src/App.js#Component#16;D:/My Projects/Tallink/front-end/src/App.js#React#7;D:/My Projects/Tallink/front-end/src/App.js#logo#49;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/src/App.js#App.css#73;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/App.js#Component#16;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/App.js#React#7;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/App.js#logo#49;</node>
+            <node x="" y="">$PROJECT_DIR$/src/App.test.js#App#68;D:/My Projects/Tallink/front-end/src/App.test.js#React#7;D:/My Projects/Tallink/front-end/src/App.test.js#ReactDOM#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/src/App.test.js#App#68;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/App.test.js#React#7;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/App.test.js#ReactDOM#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.test.tsx#App#68;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/App.test.tsx#React#7;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/App.test.tsx#ReactDOM#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.tsx#App.css#73;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/App.tsx#Component#16;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/App.tsx#React#7;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/App.tsx#logo#49;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/performance/AssetsOverSizeLimitWarning.js#SizeFormatHelpers#172;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/performance/AssetsOverSizeLimitWarning.js#WebpackError#123;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/AsyncDependenciesBlock.js#DependenciesBlock#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/AsyncDependencyToInitialChunkError.js#WebpackError#123;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/AutomaticPrefetchPlugin.js#NormalModule#233;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/AutomaticPrefetchPlugin.js#PrefetchDependency#160;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/AutomaticPrefetchPlugin.js#asyncLib#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/BannerPlugin.js#ModuleFilenameHelpers#176;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/BannerPlugin.js#Template#242;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/BannerPlugin.js#index.js#142;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/BannerPlugin.js#schema#332;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/BannerPlugin.js#validateOptions#283;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/BannerPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/BasicEvaluatedExpression.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/CachePlugin.js#asyncLib#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/CaseSensitiveModulesWarning.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Chunk.js#Entrypoint#306;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Chunk.js#GraphHelpers#258;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Chunk.js#SortableSet#149;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Chunk.js#intersect#212;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Chunk.js#util#119;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ChunkGroup.js#SortableSet#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ChunkGroup.js#compareLocations#172;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/ChunkModuleIdRangePlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ChunkRenderError.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ChunkTemplate.js#index.js#164;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/CommentCompilationWarning.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#CommonJsRequireContextDependency#248;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#CommonJsRequireDependency#174;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#CommonJsRequireDependencyParserPlugin#793;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#ConstDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#NullFactory#649;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#ParserHelpers#892;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#RequireHeaderDependency#578;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#RequireResolveContextDependency#408;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#RequireResolveDependency#336;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#RequireResolveDependencyParserPlugin#697;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsPlugin.js#RequireResolveHeaderDependency#494;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CommonJsRequireContextDependency.js#ContextDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsRequireContextDependency.js#ContextDependencyTemplateAsRequireCall#178;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CommonJsRequireDependency.js#ModuleDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsRequireDependency.js#ModuleDependencyTemplateAsId#176;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CommonJsRequireDependencyParserPlugin.js#CommonJsRequireContextDependency#195;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsRequireDependencyParserPlugin.js#CommonJsRequireDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsRequireDependencyParserPlugin.js#ContextDependencyHelpers#419;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsRequireDependencyParserPlugin.js#LocalModuleDependency#353;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsRequireDependencyParserPlugin.js#LocalModulesHelpers#491;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsRequireDependencyParserPlugin.js#ParserHelpers#553;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/CommonJsRequireDependencyParserPlugin.js#RequireHeaderDependency#283;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/CompatibilityPlugin.js#ConstDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/CompatibilityPlugin.js#NullFactory#189;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Compilation.js#AsyncDependencyToInitialChunkError#1069;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#Chunk#663;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#ChunkGroup#619;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#ChunkRenderError#1013;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#ChunkTemplate#789;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#EntryModuleNotFoundError#349;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#Entrypoint#697;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#GraphHelpers#1381;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#HotUpdateChunkTemplate#839;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#MainTemplate#741;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#ModuleDependency#1429;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#ModuleDependencyError#553;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#ModuleDependencyWarning#483;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#ModuleNotFoundError#421;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#ModuleTemplate#907;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#Queue#1291;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#RuntimeTemplate#959;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#Semaphore#1195;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#SortableSet#1330;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#Stats#1161;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#asyncLib#122;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#compareLocations#1498;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#createHash#1242;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#index.js#210;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compilation.js#util#161;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Compiler.js#Compilation#381;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#ConcurrentCompilationError#798;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#ContextModuleFactory#563;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#NormalModuleFactory#501;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#RequestShortener#682;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#ResolverFactory#627;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#Stats#427;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#Watching#461;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#asyncLib#176;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#identifier.js#762;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#index.js#354;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#parseJson#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#path#215;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Compiler.js#util#245;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/ConcatenatedModule.js#DependencyReference#349;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#HarmonyCompatibilityDependency#1039;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#HarmonyExportExpressionDependency#817;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#HarmonyExportImportedSpecifierDependency#921;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#HarmonyExportSpecifierDependency#715;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#HarmonyImportDependency#425;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#HarmonyImportSideEffectDependency#509;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#HarmonyImportSpecifierDependency#613;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#Module#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#Parser#199;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#Template#158;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#createHash#1137;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#eslintScope#236;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ConcatenatedModule.js#index.js#315;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ConcurrentCompilationError.js#WebpackError#128;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ConstDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ConstPlugin.js#ConstDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ConstPlugin.js#NullFactory#187;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ConstPlugin.js#ParserHelpers#233;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextDependency.js#CriticalDependencyWarning#165;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ContextDependency.js#Dependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextDependencyHelpers.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextDependencyTemplateAsId.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextDependencyTemplateAsRequireCall.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextElementDependency.js#ModuleDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ContextExclusionPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ContextModule.js#AsyncDependenciesBlock#252;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModule.js#Module#216;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModule.js#Template#320;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModule.js#contextify#373;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModule.js#index.js#182;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModule.js#util#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ContextModuleFactory.js#ContextElementDependency#329;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModuleFactory.js#ContextModule#279;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModuleFactory.js#asyncLib#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModuleFactory.js#index.js#253;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextModuleFactory.js#path#160;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ContextReplacementPlugin.js#ContextElementDependency#151;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ContextReplacementPlugin.js#path#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CriticalDependencyWarning.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DefinePlugin.js#BasicEvaluatedExpression#188;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DefinePlugin.js#ConstDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DefinePlugin.js#NullFactory#310;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DefinePlugin.js#ParserHelpers#260;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/DelegatedExportsDependency.js#DependencyReference#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/DelegatedExportsDependency.js#NullDependency#183;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DelegatedModule.js#DelegatedExportsDependency#388;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DelegatedModule.js#DelegatedSourceDependency#301;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DelegatedModule.js#Module#188;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DelegatedModule.js#WebpackMissingModule#224;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DelegatedModule.js#index.js#153;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DelegatedModuleFactoryPlugin.js#DelegatedModule#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DelegatedPlugin.js#DelegatedExportsDependency#289;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DelegatedPlugin.js#DelegatedModuleFactoryPlugin#122;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DelegatedPlugin.js#DelegatedSourceDependency#202;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DelegatedPlugin.js#NullFactory#378;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/DelegatedSourceDependency.js#ModuleDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DependenciesBlock.js#DependenciesBlockVariable#122;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DependenciesBlockVariable.js#index.js#152;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Dependency.js#DependencyReference#207;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Dependency.js#compareLocations#151;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Dependency.js#util#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/DependencyReference.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/DllEntryDependency.js#Dependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DllEntryPlugin.js#DllEntryDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllEntryPlugin.js#DllModuleFactory#273;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllEntryPlugin.js#SingleEntryDependency#194;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DllModule.js#Module#172;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllModule.js#index.js#138;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DllModuleFactory.js#DllModule#161;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllModuleFactory.js#index.js#135;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DllPlugin.js#DllEntryPlugin#122;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllPlugin.js#FlagInitialModulesAsUsedPlugin#232;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllPlugin.js#LibManifestPlugin#174;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllPlugin.js#schema#366;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllPlugin.js#validateOptions#317;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/DllPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DllReferencePlugin.js#DelegatedExportsDependency#421;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#DelegatedModuleFactoryPlugin#263;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#DelegatedSourceDependency#176;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#ExternalModuleFactoryPlugin#343;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#NullFactory#510;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#WebpackError#630;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#makePathsRelative#576;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#parseJson#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#schema#728;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DllReferencePlugin.js#validateOptions#679;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/DllReferencePlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/DynamicEntryPlugin.js#MultiEntryDependency#124;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DynamicEntryPlugin.js#MultiEntryPlugin#340;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DynamicEntryPlugin.js#MultiModuleFactory#280;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DynamicEntryPlugin.js#SingleEntryDependency#201;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/DynamicEntryPlugin.js#SingleEntryPlugin#396;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/EnsureChunkConditionsPlugin.js#GraphHelpers#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/EntryModuleNotFoundError.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/EntryOptionPlugin.js#DynamicEntryPlugin#235;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/EntryOptionPlugin.js#MultiEntryPlugin#179;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/EntryOptionPlugin.js#SingleEntryPlugin#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Entrypoint.js#ChunkGroup#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/performance/EntrypointsOverSizeLimitWarning.js#SizeFormatHelpers#172;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/performance/EntrypointsOverSizeLimitWarning.js#WebpackError#123;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/EnvironmentPlugin.js#DefinePlugin#249;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/EnvironmentPlugin.js#WebpackError#201;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/EnvironmentPlugin.js#definitions#1222;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ErrorHelpers.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/EvalDevToolModulePlugin.js#EvalDevToolModuleTemplatePlugin#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/EvalDevToolModuleTemplatePlugin.js#ModuleFilenameHelpers#171;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/EvalDevToolModuleTemplatePlugin.js#index.js#137;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/EvalSourceMapDevToolModuleTemplatePlugin.js#ModuleFilenameHelpers#171;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/EvalSourceMapDevToolModuleTemplatePlugin.js#index.js#137;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/EvalSourceMapDevToolPlugin.js#EvalSourceMapDevToolModuleTemplatePlugin#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/EvalSourceMapDevToolPlugin.js#SourceMapDevToolModuleOptionsPlugin#225;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ExportPropertyMainTemplatePlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ExtendedAPIPlugin.js#ConstDependency#161;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ExtendedAPIPlugin.js#NullFactory#278;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ExtendedAPIPlugin.js#ParserHelpers#228;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ExtendedAPIPlugin.js#Template#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ExternalModule.js#Module#187;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ExternalModule.js#Template#300;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ExternalModule.js#WebpackMissingModule#223;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ExternalModule.js#index.js#153;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ExternalModuleFactoryPlugin.js#ExternalModule#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ExternalsPlugin.js#ExternalModuleFactoryPlugin#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/web/FetchCompileWasmTemplatePlugin.js#WasmMainTemplatePlugin#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/FileSizeReporter.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/FlagDependencyExportsPlugin.js#Queue#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/FlagDependencyUsagePlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/FlagIncludedChunksPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/FlagInitialModulesAsUsedPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/FunctionModulePlugin.js#FunctionModuleTemplatePlugin#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/FunctionModuleTemplatePlugin.js#Template#174;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/FunctionModuleTemplatePlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Generator.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/GraphHelpers.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyAcceptDependency.js#HarmonyImportDependency#173;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyAcceptDependency.js#NullDependency#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyAcceptImportDependency.js#HarmonyImportDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyCompatibilityDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyDetectionParserPlugin.js#HarmonyCompatibilityDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyDetectionParserPlugin.js#HarmonyInitDependency#205;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportDependencyParserPlugin.js#ConstDependency#575;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyExportDependencyParserPlugin.js#HarmonyExportExpressionDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyExportDependencyParserPlugin.js#HarmonyExportHeaderDependency#301;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyExportDependencyParserPlugin.js#HarmonyExportImportedSpecifierDependency#471;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyExportDependencyParserPlugin.js#HarmonyExportSpecifierDependency#383;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyExportDependencyParserPlugin.js#HarmonyImportSideEffectDependency#211;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportExpressionDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportHeaderDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportImportedSpecifierDependency.js#DependencyReference#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyExportImportedSpecifierDependency.js#HarmonyImportDependency#183;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyExportImportedSpecifierDependency.js#HarmonyLinkingError#294;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyExportImportedSpecifierDependency.js#Template#253;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportSpecifierDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportDependency.js#DependencyReference#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportDependency.js#ModuleDependency#183;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportDependency.js#Template#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportDependencyParserPlugin.js#ConstDependency#496;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportDependencyParserPlugin.js#HarmonyAcceptDependency#426;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportDependencyParserPlugin.js#HarmonyAcceptImportDependency#344;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportDependencyParserPlugin.js#HarmonyImportSideEffectDependency#166;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportDependencyParserPlugin.js#HarmonyImportSpecifierDependency#256;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportDependencyParserPlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportSideEffectDependency.js#HarmonyImportDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportSpecifierDependency.js#DependencyReference#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportSpecifierDependency.js#HarmonyImportDependency#183;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyImportSpecifierDependency.js#HarmonyLinkingError#253;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyInitDependency.js#NullDependency#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/HarmonyLinkingError.js#WebpackError#91;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyAcceptDependency#812;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyAcceptImportDependency#882;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyCompatibilityDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyDetectionParserPlugin#1013;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyExportDependencyParserPlugin#1187;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyExportExpressionDependency#530;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyExportHeaderDependency#448;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyExportImportedSpecifierDependency#708;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyExportSpecifierDependency#620;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyImportDependencyParserPlugin#1093;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyImportSideEffectDependency#358;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyImportSpecifierDependency#270;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyInitDependency#204;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#HarmonyTopLevelThisParserPlugin#1281;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js#NullFactory#965;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyTopLevelThisParserPlugin.js#ConstDependency#126;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/HashedModuleIdsPlugin.js#createHash#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HashedModuleIdsPlugin.js#schema#219;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HashedModuleIdsPlugin.js#validateOptions#170;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/HashedModuleIdsPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/HotModuleReplacement.runtime.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/HotModuleReplacementPlugin.js#ConstDependency#432;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotModuleReplacementPlugin.js#ModuleHotAcceptDependency#256;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotModuleReplacementPlugin.js#ModuleHotDeclineDependency#343;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotModuleReplacementPlugin.js#NullFactory#499;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotModuleReplacementPlugin.js#ParserHelpers#545;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotModuleReplacementPlugin.js#Template#216;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotModuleReplacementPlugin.js#hotInitCode#12350;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotModuleReplacementPlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/HotUpdateChunk.js#Chunk#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/HotUpdateChunkTemplate.js#HotUpdateChunk#161;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotUpdateChunkTemplate.js#Template#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/HotUpdateChunkTemplate.js#index.js#256;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/IgnorePlugin.js#schema#170;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/IgnorePlugin.js#validateOptions#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/IgnorePlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportContextDependency.js#ContextDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportContextDependency.js#ContextDependencyTemplateAsRequireCall#178;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportDependenciesBlock.js#AsyncDependenciesBlock#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportDependenciesBlock.js#ImportDependency#189;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportDependency.js#ModuleDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportEagerDependency.js#ModuleDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportParserPlugin.js#CommentCompilationWarning#538;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportParserPlugin.js#ContextDependencyHelpers#391;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportParserPlugin.js#ImportContextDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportParserPlugin.js#ImportDependenciesBlock#255;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportParserPlugin.js#ImportEagerDependency#325;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportParserPlugin.js#ImportWeakDependency#191;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportParserPlugin.js#UnsupportedFeatureWarning#463;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportPlugin.js#ImportContextDependency#307;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportPlugin.js#ImportDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportPlugin.js#ImportEagerDependency#177;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportPlugin.js#ImportParserPlugin#377;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ImportPlugin.js#ImportWeakDependency#243;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportWeakDependency.js#ModuleDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/InlineChunkHtmlPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/InterpolateHtmlPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/JavascriptGenerator.js#index.js#152;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/JavascriptModulesPlugin.js#JavascriptGenerator#250;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/JavascriptModulesPlugin.js#Parser#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/JavascriptModulesPlugin.js#Template#157;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/JavascriptModulesPlugin.js#createHash#312;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/JavascriptModulesPlugin.js#index.js#216;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/JsonExportsDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/JsonGenerator.js#index.js#151;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/JsonModulesPlugin.js#JsonGenerator#165;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/JsonModulesPlugin.js#JsonParser#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/JsonParser.js#JsonExportsDependency#176;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/JsonParser.js#parseJson#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpChunkTemplatePlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpExportMainTemplatePlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpHotUpdateChunkTemplatePlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpMainTemplate.runtime.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpMainTemplatePlugin.js#Template#171;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/web/JsonpMainTemplatePlugin.js#index.js#145;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/web/JsonpMainTemplatePlugin.js#runtimeSource#17324;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpTemplatePlugin.js#JsonpChunkTemplatePlugin#191;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/web/JsonpTemplatePlugin.js#JsonpHotUpdateChunkTemplatePlugin#263;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/web/JsonpTemplatePlugin.js#JsonpMainTemplatePlugin#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/LibManifestPlugin.js#SingleEntryDependency#190;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/LibManifestPlugin.js#asyncLib#151;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/LibManifestPlugin.js#path#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/LibraryTemplatePlugin.js#AmdMainTemplatePlugin#3672;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/LibraryTemplatePlugin.js#ExportPropertyMainTemplatePlugin#1998;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/LibraryTemplatePlugin.js#JsonpExportMainTemplatePlugin#4184;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/LibraryTemplatePlugin.js#SetVarMainTemplatePlugin#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/LibraryTemplatePlugin.js#UmdMainTemplatePlugin#3858;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/LimitChunkCountPlugin.js#schema#170;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/LimitChunkCountPlugin.js#validateOptions#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/LimitChunkCountPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LoaderDependency.js#ModuleDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/LoaderOptionsPlugin.js#ModuleFilenameHelpers#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/LoaderOptionsPlugin.js#schema#237;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/LoaderOptionsPlugin.js#validateOptions#188;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/LoaderOptionsPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LoaderPlugin.js#LoaderDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/LoaderPlugin.js#NormalModule#177;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/loader-runner/lib/LoaderRunner.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/LoaderTargetPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LocalModule.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LocalModuleDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LocalModulesHelpers.js#LocalModule#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/MainTemplate.js#Template#306;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MainTemplate.js#index.js#185;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/memory-fs/lib/MemoryFileSystem.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/MemoryOutputFileSystem.js#MemoryFileSystem.js#117;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/MergeDuplicateChunksPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/MinChunkSizePlugin.js#schema#170;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/MinChunkSizePlugin.js#validateOptions#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/MinChunkSizePlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Module.js#DependenciesBlock#152;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Module.js#ModuleReason#210;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Module.js#SortableSet#258;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Module.js#Template#309;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Module.js#util#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleBuildError.js#ErrorHelpers.js#197;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ModuleBuildError.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/ModuleConcatenationPlugin.js#ConcatenatedModule#383;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ModuleConcatenationPlugin.js#HarmonyCompatibilityDependency#443;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ModuleConcatenationPlugin.js#HarmonyImportDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ModuleConcatenationPlugin.js#ModuleHotAcceptDependency#205;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ModuleConcatenationPlugin.js#ModuleHotDeclineDependency#293;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/ModuleConcatenationPlugin.js#StackedSetMap#541;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleDependency.js#Dependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleDependencyError.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleDependencyTemplateAsId.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleDependencyTemplateAsRequireId.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleDependencyWarning.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleError.js#ErrorHelpers.js#183;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ModuleError.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleFilenameHelpers.js#createHash#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleHotAcceptDependency.js#ModuleDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ModuleHotAcceptDependency.js#ModuleDependencyTemplateAsId#176;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleHotDeclineDependency.js#ModuleDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/ModuleHotDeclineDependency.js#ModuleDependencyTemplateAsId#176;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleNotFoundError.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/ModuleNotFoundPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleParseError.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleReason.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/ModuleScopePlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleTemplate.js#index.js#164;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ModuleWarning.js#ErrorHelpers.js#183;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ModuleWarning.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/MultiCompiler.js#ConcurrentCompilationError#315;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiCompiler.js#MultiStats#271;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiCompiler.js#MultiWatching#221;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiCompiler.js#asyncLib#182;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiCompiler.js#index.js#156;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/MultiEntryDependency.js#Dependency#194;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/MultiEntryPlugin.js#MultiEntryDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiEntryPlugin.js#MultiModuleFactory#277;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiEntryPlugin.js#SingleEntryDependency#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/MultiModule.js#Module#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiModule.js#Template#157;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiModule.js#content#1706;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiModule.js#index.js#213;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/MultiModuleFactory.js#MultiModule#161;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiModuleFactory.js#index.js#135;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/MultiStats.js#Stats#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/MultiStats.js#version#1711;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/MultiWatching.js#asyncLib#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NamedChunksPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NamedModulesPlugin.js#RequestShortener#170;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NamedModulesPlugin.js#createHash#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/NaturalChunkOrderPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/performance/NoAsyncChunksWarning.js#WebpackError#123;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NoEmitOnErrorsPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NoModeWarning.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeChunkTemplatePlugin.js#index.js#141;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeEnvironmentPlugin.js#CachedInputFileSystem#332;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeEnvironmentPlugin.js#NodeJsInputFileSystem#247;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeEnvironmentPlugin.js#NodeOutputFileSystem#183;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeEnvironmentPlugin.js#NodeWatchFileSystem#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeHotUpdateChunkTemplatePlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/enhanced-resolve/lib/NodeJsInputFileSystem.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeMainTemplate.runtime.js#chunk#307;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeMainTemplate.runtime.js#update#494;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeMainTemplateAsync.runtime.js#filename#328;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeMainTemplateAsync.runtime.js#readFile#383;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeMainTemplateAsync.runtime.js#runInThisContext#559;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeMainTemplatePlugin.js#NodeMainTemplate.runtime.js#9934;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeMainTemplatePlugin.js#NodeMainTemplateAsync.runtime.js#9883;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeMainTemplatePlugin.js#Template#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeOutputFileSystem.js#fs#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeOutputFileSystem.js#mkdirp#177;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeOutputFileSystem.js#path#147;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeSourcePlugin.js#AliasPlugin#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeSourcePlugin.js#ParserHelpers#185;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeSourcePlugin.js#nodeLibsBrowser#236;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NodeStuffPlugin.js#ConstDependency#201;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NodeStuffPlugin.js#NullFactory#269;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NodeStuffPlugin.js#ParserHelpers#151;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NodeStuffPlugin.js#path#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeTargetPlugin.js#ExternalsPlugin#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeTargetPlugin.js#builtins#261;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeTemplatePlugin.js#NodeChunkTemplatePlugin#190;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeTemplatePlugin.js#NodeHotUpdateChunkTemplatePlugin#260;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeTemplatePlugin.js#NodeMainTemplatePlugin#122;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/NodeWatchFileSystem.js#Watchpack#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/NodeWatchFileSystem.js#objectToMap#161;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NormalModule.js#LoaderRunner.js#317;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#Module#398;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#ModuleBuildError#490;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#ModuleError#546;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#ModuleParseError#434;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#ModuleWarning#592;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#NativeModule#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#WebpackError#350;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#contextify#704;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#createHash#642;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModule.js#index.js#254;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NormalModuleFactory.js#NormalModule#315;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModuleFactory.js#RawModule#363;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModuleFactory.js#RuleSet#405;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModuleFactory.js#asyncLib#152;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModuleFactory.js#cachedMerge#443;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModuleFactory.js#index.js#289;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/NormalModuleFactory.js#path#122;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NormalModuleReplacementPlugin.js#path#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/NullDependency.js#Dependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/NullFactory.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/OccurrenceChunkOrderPlugin.js#schema#170;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/OccurrenceChunkOrderPlugin.js#validateOptions#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/OccurrenceModuleOrderPlugin.js#schema#170;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/OccurrenceModuleOrderPlugin.js#validateOptions#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/OccurrenceOrderChunkIdsPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/OccurrenceOrderModuleIdsPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/OccurrenceOrderPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/OptionsApply.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/OptionsDefaulter.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Parser.js#BasicEvaluatedExpression#364;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Parser.js#StackedSetMap#436;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Parser.js#TrackingSet#491;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Parser.js#acorn#198;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Parser.js#index.js#282;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Parser.js#util#308;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Parser.js#vm#338;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ParserHelpers.js#BasicEvaluatedExpression#151;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ParserHelpers.js#ConstDependency#223;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ParserHelpers.js#UnsupportedFeatureWarning#290;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ParserHelpers.js#path#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/PrefetchDependency.js#ModuleDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/PrefetchPlugin.js#PrefetchDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/debug/ProfilingPlugin.js#fs#6;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/debug/ProfilingPlugin.js#inspector#320;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/debug/ProfilingPlugin.js#schema#131;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/debug/ProfilingPlugin.js#trace-event.d.ts#45;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/debug/ProfilingPlugin.js#validateOptions#82;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/debug/ProfilingPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ProgressPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ProvidePlugin.js#ConstDependency#171;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ProvidePlugin.js#NullFactory#239;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ProvidePlugin.js#ParserHelpers#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/Queue.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/RawModule.js#Module#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/RawModule.js#index.js#189;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/node/ReadFileCompileWasmTemplatePlugin.js#Template#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/node/ReadFileCompileWasmTemplatePlugin.js#WasmMainTemplatePlugin#162;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/RecordIdsPlugin.js#identifierUtils#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/RemoveEmptyChunksPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/RemoveParentModulesPlugin.js#Queue#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/RemoveParentModulesPlugin.js#SetHelpers.js#177;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/RemovedPluginError.js#WebpackError#21;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/RequestShortener.js#path#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireContextDependency.js#ContextDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireContextDependency.js#ModuleDependencyTemplateAsRequireId#178;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireContextDependencyParserPlugin.js#RequireContextDependency#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireContextPlugin.js#ContextElementDependency#193;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireContextPlugin.js#RequireContextDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireContextPlugin.js#RequireContextDependencyParserPlugin#266;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsureDependenciesBlock.js#AsyncDependenciesBlock#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireEnsureDependenciesBlock.js#RequireEnsureDependency#189;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsureDependenciesBlockParserPlugin.js#RequireEnsureDependenciesBlock#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireEnsureDependenciesBlockParserPlugin.js#RequireEnsureItemDependency#205;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireEnsureDependenciesBlockParserPlugin.js#getFunctionExpression#283;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsureDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsureItemDependency.js#ModuleDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireEnsureItemDependency.js#NullDependency#176;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsurePlugin.js#NullFactory#270;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireEnsurePlugin.js#ParserHelpers#427;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireEnsurePlugin.js#RequireEnsureDependenciesBlockParserPlugin#318;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireEnsurePlugin.js#RequireEnsureDependency#199;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireEnsurePlugin.js#RequireEnsureItemDependency#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireHeaderDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireIncludeDependency.js#DependencyReference#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireIncludeDependency.js#ModuleDependency#183;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireIncludeDependency.js#Template#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireIncludeDependencyParserPlugin.js#RequireIncludeDependency#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireIncludePlugin.js#ParserHelpers#290;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireIncludePlugin.js#RequireIncludeDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireIncludePlugin.js#RequireIncludeDependencyParserPlugin#193;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/RequireJsStuffPlugin.js#ConstDependency#171;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/RequireJsStuffPlugin.js#NullFactory#238;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/RequireJsStuffPlugin.js#ParserHelpers#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireResolveContextDependency.js#ContextDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireResolveContextDependency.js#ContextDependencyTemplateAsId#178;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireResolveDependency.js#ModuleDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireResolveDependency.js#ModuleDependencyAsId#176;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireResolveDependencyParserPlugin.js#ContextDependencyHelpers#363;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireResolveDependencyParserPlugin.js#RequireResolveContextDependency#193;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireResolveDependencyParserPlugin.js#RequireResolveDependency#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/RequireResolveDependencyParserPlugin.js#RequireResolveHeaderDependency#279;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireResolveHeaderDependency.js#NullDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/ResolverFactory.js#Factory#210;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/ResolverFactory.js#index.js#174;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/RuleSet.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/RuntimeChunkPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/RuntimeTemplate.js#Template#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/Semaphore.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/lib/Server.js#SockjsSession#1422;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#addEntries.js#25397;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#chokidar#545;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#compress#621;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#createCertificate#991;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#createLogger#937;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#del#517;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#express#584;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#fs#177;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#historyApiFallback#767;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#http#316;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#httpProxyMiddleware#705;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#https#346;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#ip#234;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#killable#478;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#path#203;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#schema#1105;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#semver#443;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#serveIndex#662;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#sockjs#408;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#spdy#378;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#tls#260;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#url#288;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#validateOptions#1056;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#webpack#836;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/Server.js#webpackDevMiddleware#872;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/SetHelpers.js#intersect#1317;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/SetVarMainTemplatePlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/SideEffectsFlagPlugin.js#HarmonyExportImportedSpecifierDependency#155;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/SideEffectsFlagPlugin.js#HarmonyImportSideEffectDependency#273;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/SideEffectsFlagPlugin.js#HarmonyImportSpecifierDependency#377;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/SideEffectsFlagPlugin.js#mm#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/SingleEntryDependency.js#ModuleDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/SingleEntryPlugin.js#SingleEntryDependency#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/SizeFormatHelpers.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/performance/SizeLimitsPlugin.js#AssetsOverSizeLimitWarning#208;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/performance/SizeLimitsPlugin.js#EntrypointsOverSizeLimitWarning#122;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/performance/SizeLimitsPlugin.js#NoAsyncChunksWarning#284;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/SortableSet.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/SourceMapDevToolModuleOptionsPlugin.js#ModuleFilenameHelpers#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/SourceMapDevToolPlugin.js#ModuleFilenameHelpers#215;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/SourceMapDevToolPlugin.js#SourceMapDevToolModuleOptionsPlugin#281;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/SourceMapDevToolPlugin.js#createHash#375;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/SourceMapDevToolPlugin.js#index.js#181;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/SourceMapDevToolPlugin.js#path#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/SourceMapDevToolPlugin.js#schema#474;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/SourceMapDevToolPlugin.js#validateOptions#425;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/SourceMapDevToolPlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/optimize/SplitChunksPlugin.js#GraphHelpers#207;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/SplitChunksPlugin.js#SetHelpers.js#271;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/SplitChunksPlugin.js#SortableSet#155;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/SplitChunksPlugin.js#contextify#393;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/SplitChunksPlugin.js#crypto#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/optimize/SplitChunksPlugin.js#deterministicGrouping#308;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/StackedSetMap.js#util#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Stats.js#RequestShortener#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Stats.js#SizeFormatHelpers#177;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Stats.js#compareLocations#341;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Stats.js#formatLocation#235;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Stats.js#identifierUtils#287;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Stats.js#version#10134;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/SystemPlugin.js#ParserHelpers#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/SystemPlugin.js#WebpackError#172;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Template.js#HotUpdateChunk#376;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/Template.js#index.js#342;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/TemplatedPathPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/TrackingSet.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/UmdMainTemplatePlugin.js#Template#190;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/UmdMainTemplatePlugin.js#index.js#156;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/UnsupportedDependency.js#NullDependency#120;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/UnsupportedDependency.js#webpackMissingModule#195;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/UnsupportedFeatureWarning.js#WebpackError#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/UnsupportedWebAssemblyFeatureError.js#WebpackError#91;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/UseStrictPlugin.js#ConstDependency#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/WarnCaseSensitiveModulesPlugin.js#CaseSensitiveModulesWarning#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/WarnNoModeSetPlugin.js#NoModeWarning#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/WasmFinalizeExportsPlugin.js#UnsupportedWebAssemblyFeatureError#122;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/WasmMainTemplatePlugin.js#Template#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WasmMainTemplatePlugin.js#WebAssemblyUtils#162;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/WatchIgnorePlugin.js#schema#170;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WatchIgnorePlugin.js#validateOptions#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/WatchMissingNodeModulesPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/Watching.js#Stats#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/WebAssemblyExportImportedDependency.js#DependencyReference#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/WebAssemblyExportImportedDependency.js#ModuleDependency#183;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyGenerator.js#Generator#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyGenerator.js#Template#164;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyGenerator.js#WebAssemblyExportImportedDependency#574;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyGenerator.js#WebAssemblyUtils#205;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyGenerator.js#index.js#277;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyGenerator.js#t#443;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/WebAssemblyImportDependency.js#DependencyReference#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/WebAssemblyImportDependency.js#ModuleDependency#183;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/dependencies/WebAssemblyImportDependency.js#UnsupportedWebAssemblyFeatureError#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyInInitialChunkError.js#WebpackError#91;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyJavascriptGenerator.js#Generator#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyJavascriptGenerator.js#Template#164;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyJavascriptGenerator.js#WebAssemblyExportImportedDependency#347;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyJavascriptGenerator.js#WebAssemblyImportDependency#255;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyJavascriptGenerator.js#index.js#221;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyModulesPlugin.js#Generator#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyModulesPlugin.js#WebAssemblyExportImportedDependency#462;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyModulesPlugin.js#WebAssemblyGenerator#222;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyModulesPlugin.js#WebAssemblyImportDependency#370;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyModulesPlugin.js#WebAssemblyInInitialChunkError#570;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyModulesPlugin.js#WebAssemblyJavascriptGenerator#286;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyModulesPlugin.js#WebAssemblyParser#164;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyParser.js#WebAssemblyExportImportedDependency#442;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyParser.js#WebAssemblyImportDependency#350;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyParser.js#index.js#175;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyParser.js#t#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyUtils.js#Template#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/wasm/WebAssemblyUtils.js#WebAssemblyImportDependency#162;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/web/WebEnvironmentPlugin.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerChunkTemplatePlugin.js#index.js#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerHotUpdateChunkTemplatePlugin.js#index.js#139;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerMainTemplate.runtime.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerMainTemplatePlugin.js#Template#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webworker/WebWorkerMainTemplatePlugin.js#WebWorkerMainTemplate.runtime.js#5407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerTemplatePlugin.js#WebWorkerChunkTemplatePlugin#199;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webworker/WebWorkerTemplatePlugin.js#WebWorkerHotUpdateChunkTemplatePlugin#279;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webworker/WebWorkerTemplatePlugin.js#WebWorkerMainTemplatePlugin#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/WebpackDevServerUtils.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/WebpackError.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/WebpackMissingModule.js#module#218;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/WebpackOptions.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/WebpackOptionsApply.js#AMDPlugin#1623;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#APIPlugin#828;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#CachePlugin#16910;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#CommonJsPlugin#1359;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#CompatibilityPlugin#1034;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#ConstPlugin#870;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#DefinePlugin#3331;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#EnsureChunkConditionsPlugin#1971;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#EntryOptionPlugin#715;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#EvalDevToolModulePlugin#500;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#EvalSourceMapDevToolPlugin#638;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#ExternalsPlugin.js#6234;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#FetchCompileWasmTemplatePlugin.js#4322;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#FlagDependencyExportsPlugin#2786;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#FlagDependencyUsagePlugin#2712;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#FlagIncludedChunksPlugin#2305;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#FunctionModulePlugin#436;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#HarmonyModulesPlugin#1424;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#HashedModuleIdsPlugin#3265;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#ImportPlugin#1562;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#JavascriptModulesPlugin#170;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#JsonModulesPlugin#240;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#JsonpTemplatePlugin.js#4246;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#LibraryTemplatePlugin#8763;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#LoaderPlugin#1298;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#LoaderTargetPlugin#376;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#MergeDuplicateChunksPlugin#2220;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#ModuleConcatenationPlugin#2864;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#NamedChunksPlugin#3207;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#NamedModulesPlugin#3147;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#NaturalChunkOrderPlugin#2558;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#NoEmitOnErrorsPlugin#3083;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#NodeSourcePlugin.js#4395;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#NodeStuffPlugin#980;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#NodeTargetPlugin.js#6175;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#NodeTemplatePlugin.js#5469;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#OccurrenceChunkOrderPlugin#2386;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#OccurrenceModuleOrderPlugin#2471;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#OptionsApply#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#ReadFileCompileWasmTemplatePlugin.js#5548;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#RecordIdsPlugin#773;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#RemoveEmptyChunksPlugin#2141;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#RemoveParentModulesPlugin#2058;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#RequireContextPlugin#1678;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#RequireEnsurePlugin#1755;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#RequireIncludePlugin#1830;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#RequireJsStuffPlugin#916;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#RuntimeChunkPlugin#3014;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#SideEffectsFlagPlugin#2637;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#SizeLimitsPlugin#3379;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#SourceMapDevToolPlugin#570;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#SplitChunksPlugin#2947;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#SystemPlugin#1501;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#TemplatedPathPlugin#1097;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#UseStrictPlugin#1243;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#WarnCaseSensitiveModulesPlugin#1159;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#WarnNoModeSetPlugin#1908;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#WasmFinalizeExportsPlugin#3447;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#WebAssemblyModulesPlugin#298;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsApply.js#WebWorkerTemplatePlugin#4818;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/WebpackOptionsDefaulter.js#OptionsDefaulter#152;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsDefaulter.js#SourceMapDevToolPlugin#9683;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsDefaulter.js#Template#208;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsDefaulter.js#UglifyJsPlugin#9619;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsDefaulter.js#path#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/WebpackOptionsValidationError.js#WebpackError#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/WebpackOptionsValidationError.js#webpackOptionsSchema#169;</node>
+            <node x="" y="">$PROJECT_DIR$/src/actions/actions.js#addConference#80;D:/My Projects/Tallink/front-end/src/actions/actions.js#addParticipant#148;D:/My Projects/Tallink/front-end/src/actions/actions.js#addRoom#30;D:/My Projects/Tallink/front-end/src/actions/actions.js#deleteConferenceById#122;D:/My Projects/Tallink/front-end/src/actions/actions.js#deleteParticipantById#168;D:/My Projects/Tallink/front-end/src/actions/actions.js#deleteRoomById#60;D:/My Projects/Tallink/front-end/src/actions/actions.js#getAllRooms#13;D:/My Projects/Tallink/front-end/src/actions/actions.js#getConferenceById#99;D:/My Projects/Tallink/front-end/src/actions/actions.js#getRoomById#43;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/lib/utils/addEntries.js#createDomain#131;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/style-loader/lib/addStyles.js#fixUrls#1973;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/schemas/ajv.absolutePath.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ajv/lib/ajv.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/alert.js#$#282;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/alert.js#Util#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/alert.js#jquery#368;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/alert.js#util.js#387;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/neo-async/async.js</node>
+            <node x="" y="">$PROJECT_DIR$/src/axios/axios.js#axios#7;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/config/jest/babelTransform.js#babelJest#229;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js#jquery#351;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js#jquery#317;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js#jquery#373;D:/My Projects/Tallink/front-end/node_modules/bootstrap/dist/js/bootstrap.js#popper.js#351;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js#jquery#338;D:/My Projects/Tallink/front-end/node_modules/bootstrap/dist/js/bootstrap.min.js#popper.js#317;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/browsersHelper.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js#FileSizeReporter#1588;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#appPackage#4047;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#bfj#1219;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#browsersHelper.js#2590;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#chalk#1119;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#checkRequiredFiles#1348;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#configFactory#1247;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#env.js#713;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#formatWebpackMessages#1422;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#fs#1151;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#path#1089;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#paths#1306;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#printBuildError#1658;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#printHostingInstructions#1502;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#verifyPackageTree#827;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#verifyTypeScriptSetup#967;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/build.js#webpack#1183;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/button.js#$#283;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/button.js#jquery#369;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/cachedMerge.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/carousel.js#$#285;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/carousel.js#Util#308;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js#jquery#371;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/carousel.js#util.js#390;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/prop-types/checkPropTypes.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/checkRequiredFiles.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/uglifyjs-webpack-plugin/dist/cjs.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mini-css-extract-plugin/dist/cjs.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/cjs.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/clearConsole.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/collapse.js#$#285;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/collapse.js#Util#308;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/collapse.js#jquery#371;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/collapse.js#util.js#390;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/compareLocations.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/lib/utils/createCertificate.js#selfsigned#72;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/lib/utils/createDomain.js#ip#142;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/lib/utils/createDomain.js#url#114;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/createHash.js#createHash#1916;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/createJestConfig.js#chalk#255;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/createJestConfig.js#fs#229;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/createJestConfig.js#overrides#2460;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/createJestConfig.js#paths#287;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/lib/utils/createLogger.js#log#72;</node>
+            <node x="" y="">sync;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/deterministicGrouping.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/hot/dev-server.js#check#296;D:/My Projects/Tallink/front-end/node_modules/webpack/hot/dev-server.js#hotEmitter#1250;D:/My Projects/Tallink/front-end/node_modules/webpack/hot/dev-server.js#log#267;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/dropdown.js#$#285;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/dropdown.js#Popper#308;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/dropdown.js#Util#339;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js#jquery#371;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/dropdown.js#popper.js#390;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/dropdown.js#util.js#412;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/eject.js#chalk#611;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/eject.js#createJestConfig#685;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/eject.js#execSync#570;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/eject.js#fs#497;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/eject.js#inquirer#747;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/eject.js#os#863;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/eject.js#path#529;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/eject.js#paths#643;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/eject.js#spawnSync#813;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/hot/emitter.js#EventEmitter#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/config/env.js#config#1436;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/env.js#fs#254;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/env.js#index.d.ts#1404;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/env.js#path#280;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/env.js#paths#310;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/errorOverlayMiddleware.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/evalSourceMapMiddleware.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/events/events.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/config/jest/fileTransform.js#path#254;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/formatLocation.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sass-loader/lib/formatSassError.js#fs#77;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/formatSassError.js#os#51;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/formatSassError.js#path#21;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/formatWebpackMessages.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/getCSSModuleLocalIdent.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/getCacheIdentifier.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/dependencies/getFunctionExpression.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/identifier.js#contextify#2256;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/util/identifier.js#makePathsRelative#1386;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/util/identifier.js#path#20;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/ignoredFiles.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/immer/dist/immer.d.ts#produce#4359;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sass-loader/lib/importsToResolve.js#path#21;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/importsToResolve.js#utils#51;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/postcss-preset-env/index.cjs.js</node>
+            <node x="" y="">$PROJECT_DIR$/src/index.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/index.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/src/index.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/node_modules/chalk/types/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fork-ts-checker-webpack-plugin-alt/lib/types/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/dotenv-expand/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/scheduler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/selfsigned/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ansi-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/postcss-flexbugs-fixes/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-index/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ajv-keywords/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash.tail/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/strip-ansi/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/compression/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/schema-utils/src/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/connect-history-api-fallback/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-log/src/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/yargs/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/import-local/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/debug/src/index.js</node>
+            <node x="" y="">default;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/eslint-scope/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/node_modules/schema-utils/src/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@webassemblyjs/wasm-edit/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@webassemblyjs/helper-module-context/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@webassemblyjs/wasm-parser/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@webassemblyjs/ast/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-sources/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/tapable/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bfj/src/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/workbox-webpack-plugin/build/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/optimize-css-assets-webpack-plugin/src/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/node_modules/resolve/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/node_modules/babel-jest/build/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/style-loader/node_modules/schema-utils/src/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sockjs/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/loader-utils/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/clone-deep/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/micromatch/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chokidar/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/case-sensitive-paths-webpack-plugin/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mkdirp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/json-parse-better-errors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/index.js#react.development.js#149;D:/My Projects/Tallink/front-end/node_modules/react/index.js#react.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/index.js#$#7;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Alert#30;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Button#58;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Carousel#88;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Collapse#122;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Dropdown#156;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Modal#190;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Popover#218;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Scrollspy#250;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Tab#286;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Toast#310;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Tooltip#338;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/index.js#Util#370;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/index.js#react-dom.development.js#1318;D:/My Projects/Tallink/front-end/node_modules/react-dom/index.js#react-dom.production.min.js#1244;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/style-loader/index.js#loaderUtils#133;D:/My Projects/Tallink/front-end/node_modules/style-loader/index.js#options.json#407;D:/My Projects/Tallink/front-end/node_modules/style-loader/index.js#path#104;D:/My Projects/Tallink/front-end/node_modules/style-loader/index.js#validateOptions#176;</node>
+            <node x="" y="">$PROJECT_DIR$/src/index.js#App#90;D:/My Projects/Tallink/front-end/src/index.js#React#7;D:/My Projects/Tallink/front-end/src/index.js#ReactDOM#34;D:/My Projects/Tallink/front-end/src/index.js#index.css#61;D:/My Projects/Tallink/front-end/src/index.js#serviceWorker#115;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/killable/index.js</node>
+            <node x="" y="">stdout;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bonjour/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/node-libs-browser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/src/index.js#App#90;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/index.js#React#7;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/index.js#ReactDOM#34;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/index.js#index.css#61;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template/src/index.js#serviceWorker#115;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/object-assign/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/opn/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/http-proxy-middleware/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/client/index.js#hotEmitter#6908;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/client/index.js#log#182;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/client/index.js#overlay#273;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/client/index.js#socket#239;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/client/index.js#stripAnsi#137;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/client/index.js#url#111;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/del/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/html-webpack-plugin/index.js</node>
+            <node x="" y="">AllHtmlEntities;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-middleware/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pify/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-manifest-plugin/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/internal-ip/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pnp-webpack-plugin/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/index.tsx#App#90;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/index.tsx#React#7;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/index.tsx#ReactDOM#34;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/index.tsx#index.css#61;D:/My Projects/Tallink/front-end/node_modules/react-scripts/template-typescript/src/index.tsx#serviceWorker#115;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/init.js#browsersHelper.js#718;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/init.js#chalk#559;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/init.js#execSync#602;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/init.js#fs#497;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/init.js#os#767;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/init.js#path#529;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/init.js#spawn#643;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/init.js#templateDependencies#4788;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/init.js#verifyTypeScriptSetup#793;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/inquirer.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ip/lib/ip.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jest/build/jest.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/client/live.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sass-loader/lib/loader.js#async#51;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/loader.js#formatSassError#87;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/loader.js#normalizeOptions#195;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/loader.js#path#21;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/loader.js#pify#251;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/loader.js#render#1299;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/loader.js#semver#281;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/loader.js#webpackImporter#141;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/hot/log-apply-result.js#log#303;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/hot/log.js</node>
+            <node x="" y="">getLogger;</node>
+            <node x="" y="">$PROJECT_DIR$/src/logo.svg</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/logo.svg</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/src/logo.svg</node>
+            <node x="" y="">config;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/modal.js#$#282;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/modal.js#Util#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js#jquery#368;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/modal.js#util.js#387;</node>
+            <node x="" y="">ResolverFactory;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/noopServiceWorkerMiddleware.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sass-loader/lib/normalizeOptions.js#cloneDeep#86;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/normalizeOptions.js#os#21;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/normalizeOptions.js#path#127;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/normalizeOptions.js#proxyCustomImporters#157;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/normalizeOptions.js#utils#47;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/util/objectToMap.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/hot/only-dev-server.js#check#289;D:/My Projects/Tallink/front-end/node_modules/webpack/hot/only-dev-server.js#hotEmitter#1979;D:/My Projects/Tallink/front-end/node_modules/webpack/hot/only-dev-server.js#log#260;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/openBrowser.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/bin/options.js#options#1591;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/style-loader/options.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/lib/options.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/client/overlay.js#Entities#311;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/client/overlay.js#ansiHTML#263;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/package.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/package.json#version#25;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/package.json#version#36;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/config/paths.js#fs#284;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/paths.js#getPublicUrl#973;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/paths.js#ownPackageJson#3981;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/paths.js#path#254;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/paths.js#url#310;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/hot/poll.js#checkForUpdate#251;D:/My Projects/Tallink/front-end/node_modules/webpack/hot/poll.js#log#221;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/popover.js#$#284;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/popover.js#Tooltip#307;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/popover.js#jquery#370;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/popover.js#tooltip.js#389;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/portfinder/lib/portfinder.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/printBuildError.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/printHostingInstructions.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/profiling.js#react-dom.development.js#1317;D:/My Projects/Tallink/front-end/node_modules/react-dom/profiling.js#react-dom.profiling.min.js#1244;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sass-loader/lib/proxyCustomImporters.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts#React#700;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js#index.js#393;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js#React#396;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-server.browser.development.js#_assign#356;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-server.browser.development.js#checkPropTypes#426;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js#index.js#361;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js#p#279;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js#q#306;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js#React#393;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-server.node.development.js#_assign#353;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-server.node.development.js#checkPropTypes#423;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-server.node.development.js#stream#482;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#aa#322;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#p#276;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#q#303;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.development.js#index.js#389;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js#React#392;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-test-utils.development.js#ReactDOM#422;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-test-utils.development.js#_assign#352;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.production.min.js#index.js#357;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#g#275;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#l#302;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#m#321;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.development.js#index.js#392;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#React#355;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#_assign#385;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#checkPropTypes#425;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#scheduler#484;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#tracing#522;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.production.min.js#index.js#409;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.production.min.js#aa#325;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.production.min.js#ba#372;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.production.min.js#n#345;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.profiling.min.js#index.js#408;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js#aa#324;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js#n#344;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js#r#371;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js#w#394;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.browser.development.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.browser.production.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.node.development.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.node.production.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.development.js#index.js#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js#ReactDOM#370;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js#_assign#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js#index.js#375;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js#k#293;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js#l#316;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js#index.js#378;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js#React#341;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.development.js#_assign#371;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.development.js#checkPropTypes#411;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.development.js#scheduler#470;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.development.js#tracing#508;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js#index.js#395;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js#aa#311;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.production.min.js#ba#358;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.production.min.js#n#331;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.profiling.min.js#index.js#394;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.profiling.min.js#aa#310;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.profiling.min.js#n#330;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.profiling.min.js#r#357;D:/My Projects/Tallink/front-end/node_modules/react-dom/cjs/react-dom.profiling.min.js#w#380;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js#spawn#493;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/cjs/react.development.js#Component#61151;D:/My Projects/Tallink/front-end/node_modules/react/cjs/react.development.js#_assign#337;D:/My Projects/Tallink/front-end/node_modules/react/cjs/react.development.js#checkPropTypes#377;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js#k#260;</node>
+            <node x="" y="">$PROJECT_DIR$/src/route/route.js#addConference#599;D:/My Projects/Tallink/front-end/src/route/route.js#addParticipant#1186;D:/My Projects/Tallink/front-end/src/route/route.js#addRoom#160;D:/My Projects/Tallink/front-end/src/route/route.js#axios#7;D:/My Projects/Tallink/front-end/src/route/route.js#deleteConferenceById#974;D:/My Projects/Tallink/front-end/src/route/route.js#deleteParticipantById#1369;D:/My Projects/Tallink/front-end/src/route/route.js#deleteRoomById#440;D:/My Projects/Tallink/front-end/src/route/route.js#getAllRooms#37;D:/My Projects/Tallink/front-end/src/route/route.js#getConferenceById#783;D:/My Projects/Tallink/front-end/src/route/route.js#getRoomById#301;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/postcss-safe-parser/lib/safe-parse.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/scrollspy.js#$#286;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/scrollspy.js#Util#309;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/scrollspy.js#jquery#372;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/scrollspy.js#util.js#391;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/semver/semver.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.browser.js#react-dom-server.browser.development.js#168;D:/My Projects/Tallink/front-end/node_modules/react-dom/server.browser.js#react-dom-server.browser.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.js#server.node.js#32;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.node.js#react-dom-server.node.development.js#165;D:/My Projects/Tallink/front-end/node_modules/react-dom/server.node.js#react-dom-server.node.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/src/serviceWorker.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/src/serviceWorker.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/serviceWorker.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/hot/signal.js#checkForUpdate#181;D:/My Projects/Tallink/front-end/node_modules/webpack/hot/signal.js#log#152;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/client/socket.js#SockJS#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/sockjs-client/dist/sockjs.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/spdy/lib/spdy.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/start.js#WebpackDevServer#1184;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#WebpackDevServerUtils.js#1445;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#appName#3190;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#browsersHelper.js#2634;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#chalk#1116;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#checkRequiredFiles#1302;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#clearConsole#1240;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#configFactory#1603;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#createDevServerConfig#1662;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#env.js#715;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#fs#1090;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#openBrowser#1501;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#paths#1561;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#proxySetting#3480;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#verifyPackageTree#828;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#verifyTypeScriptSetup#968;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/start.js#webpack#1148;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/tab.js#$#280;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/tab.js#Util#303;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/tab.js#jquery#366;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/tab.js#util.js#385;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/test-utils.js#react-dom-test-utils.development.js#164;D:/My Projects/Tallink/front-end/node_modules/react-dom/test-utils.js#react-dom-test-utils.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/test.js#createJestConfig#2034;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/test.js#env.js#730;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/test.js#execSync#1146;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/test.js#jest#1105;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/test.js#path#2096;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/test.js#paths#2126;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/test.js#resolve#2590;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/test.js#verifyPackageTree#843;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/test.js#verifyTypeScriptSetup#983;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/toast.js#$#282;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/toast.js#Util#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/toast.js#jquery#368;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/toast.js#util.js#387;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/tooltip.js#$#284;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/tooltip.js#Popper#307;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/src/tooltip.js#Util#338;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/tooltip.js#jquery#370;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/tooltip.js#popper.js#389;D:/My Projects/Tallink/front-end/node_modules/bootstrap/js/dist/tooltip.js#util.js#411;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chrome-trace-event/dist/trace-event.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/scheduler/tracing.js</node>
+            <node x="" y="">Session;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dev-utils/typescriptFormatter.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.browser.js#react-dom-unstable-fizz.browser.development.js#175;D:/My Projects/Tallink/front-end/node_modules/react-dom/unstable-fizz.browser.js#react-dom-unstable-fizz.browser.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.js#unstable-fizz.node.js#32;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.node.js#react-dom-unstable-fizz.node.development.js#172;D:/My Projects/Tallink/front-end/node_modules/react-dom/unstable-fizz.node.js#react-dom-unstable-fizz.node.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-native-dependencies.js#react-dom-unstable-native-dependencies.development.js#182;D:/My Projects/Tallink/front-end/node_modules/react-dom/unstable-native-dependencies.js#react-dom-unstable-native-dependencies.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/style-loader/url.js#loaderUtils#133;D:/My Projects/Tallink/front-end/node_modules/style-loader/url.js#options.json#407;D:/My Projects/Tallink/front-end/node_modules/style-loader/url.js#path#104;D:/My Projects/Tallink/front-end/node_modules/style-loader/url.js#validateOptions#176;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/url/url.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/style-loader/lib/urls.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/style-loader/useable.js#loaderUtils#133;D:/My Projects/Tallink/front-end/node_modules/style-loader/useable.js#options.json#407;D:/My Projects/Tallink/front-end/node_modules/style-loader/useable.js#path#104;D:/My Projects/Tallink/front-end/node_modules/style-loader/useable.js#validateOptions#176;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/src/util.js#$#281;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bootstrap/js/dist/util.js#jquery#367;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/util/util.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/bin/utils.js#bonjour#2192;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/utils.js#open#149;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/utils.js#version#716;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/validateSchema.js#Ajv#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/validateSchema.js#ajv.absolutePath.js#281;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/validateSchema.js#index.js#235;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/verifyPackageTree.js#chalk#230;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyPackageTree.js#fs#262;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyPackageTree.js#ownPackageJson#1173;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyPackageTree.js#path#288;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js#chalk#230;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js#fs#262;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js#globby#490;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js#immer#433;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js#os#399;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js#path#324;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js#paths#354;D:/My Projects/Tallink/front-end/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js#resolve#288;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/watchpack/lib/watchpack.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack-dev-server/bin/webpack-dev-server.js#Server#676;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#addEntries#718;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#config#2097;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#config-yargs#1854;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#createDomain#773;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#createLogger#832;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#debug#253;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#fs#308;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#importLocal#435;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#net#334;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#options#550;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#path#362;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#portfinder#393;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#utils.js#649;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#webpack#513;D:/My Projects/Tallink/front-end/node_modules/webpack-dev-server/bin/webpack-dev-server.js#yargs#481;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.js#CaseSensitivePathsPlugin#496;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#ForkTsCheckerWebpackPlugin#1526;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#HtmlWebpackPlugin#438;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#InlineChunkHtmlPlugin#577;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#InterpolateHtmlPlugin#973;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#ManifestPlugin#914;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#MiniCssExtractPlugin#712;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#ModuleNotFoundPlugin#1448;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#ModuleScopePlugin#1213;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#OptimizeCSSAssetsPlugin#777;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#PnpWebpackPlugin#382;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#TerserPlugin#657;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#WatchMissingNodeModulesPlugin#1117;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#WorkboxWebpackPlugin#1053;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#fs#254;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#getCSSModuleLocalIdent#1285;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#getCacheIdentifier#1710;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#getClientEnvironment#1401;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#loaders#3808;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#path#280;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#paths#1367;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#resolve#346;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#safePostCssParser#856;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#typescriptFormatter#1608;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpack.config.js#webpack#310;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/bin/webpack.js#cp#225;D:/My Projects/Tallink/front-end/node_modules/webpack/bin/webpack.js#fs#1978;D:/My Projects/Tallink/front-end/node_modules/webpack/bin/webpack.js#packageName#3431;D:/My Projects/Tallink/front-end/node_modules/webpack/bin/webpack.js#path#1947;D:/My Projects/Tallink/front-end/node_modules/webpack/bin/webpack.js#pkg#3776;D:/My Projects/Tallink/front-end/node_modules/webpack/bin/webpack.js#readLine#2005;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/webpack.js#AggressiveMergingPlugin.js#5267;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#AggressiveSplittingPlugin.js#5350;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#AutomaticPrefetchPlugin.js#2922;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#BannerPlugin.js#2981;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#CachePlugin.js#3028;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ChunkModuleIdRangePlugin.js#5434;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#Compiler#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ContextExclusionPlugin.js#3085;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ContextReplacementPlugin.js#3155;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#DefinePlugin.js#3215;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#Dependency.js#3261;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#DependencyReference.js#5144;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#DllPlugin.js#3304;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#DllReferencePlugin.js#3355;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#EnvironmentPlugin.js#3414;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#EvalDevToolModulePlugin.js#3478;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#EvalSourceMapDevToolPlugin.js#3551;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ExtendedAPIPlugin.js#3618;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ExternalsPlugin.js#3674;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#FetchCompileWasmTemplatePlugin.js#6253;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#HashedModuleIdsPlugin.js#3734;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#HotModuleReplacementPlugin.js#3805;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#IgnorePlugin.js#3867;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#JsonpTemplatePlugin.js#6330;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#LibraryTemplatePlugin.js#3924;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#LimitChunkCountPlugin.js#5512;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#LoaderOptionsPlugin.js#3988;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#LoaderTargetPlugin.js#4049;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#MemoryOutputFileSystem.js#4113;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#MinChunkSizePlugin.js#5584;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#Module.js#4165;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ModuleConcatenationPlugin.js#5662;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ModuleFilenameHelpers.js#4216;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#MultiCompiler#161;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#NamedChunksPlugin.js#4278;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#NamedModulesPlugin.js#4337;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#NoEmitOnErrorsPlugin.js#4399;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#NodeEnvironmentPlugin#211;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#NodeTemplatePlugin.js#6560;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#NormalModuleReplacementPlugin.js#4474;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#OccurrenceChunkOrderPlugin.js#5912;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#OccurrenceModuleOrderPlugin.js#5824;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#OccurrenceOrderPlugin.js#5741;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#PrefetchPlugin.js#4541;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ProfilingPlugin.js#6760;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ProgressPlugin.js#4593;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ProvidePlugin.js#4644;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#ReadFileCompileWasmTemplatePlugin.js#6642;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#RemovedPluginError#620;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#RuntimeChunkPlugin.js#5989;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#SetVarMainTemplatePlugin.js#4705;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#SideEffectsFlagPlugin.js#6061;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#SingleEntryPlugin.js#4770;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#SourceMapDevToolPlugin.js#4833;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#SplitChunksPlugin.js#6132;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#Stats.js#4884;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#Template.js#4921;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#UmdMainTemplatePlugin.js#4974;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#WatchIgnorePlugin.js#5036;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#WebWorkerTemplatePlugin.js#6445;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#WebpackOptionsApply#282;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#WebpackOptionsDefaulter#344;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#WebpackOptionsValidationError#466;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#createHash.js#6855;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#validateSchema#414;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#version#690;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.js#webpackOptionsSchema#548;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/webpack/lib/webpack.web.js#Compiler#121;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.web.js#WebEnvironmentPlugin#161;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.web.js#WebpackOptionsApply#229;D:/My Projects/Tallink/front-end/node_modules/webpack/lib/webpack.web.js#WebpackOptionsDefaulter#291;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/config/webpackDevServer.config.js#errorOverlayMiddleware#254;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpackDevServer.config.js#evalSourceMapMiddleware#336;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpackDevServer.config.js#fs#608;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpackDevServer.config.js#ignoredFiles#512;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpackDevServer.config.js#noopServiceWorkerMiddleware#420;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpackDevServer.config.js#paths#574;D:/My Projects/Tallink/front-end/node_modules/react-scripts/config/webpackDevServer.config.js#paths.proxySetup#5178;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sass-loader/lib/webpackImporter.js#importsToResolve#347;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/webpackImporter.js#path#280;D:/My Projects/Tallink/front-end/node_modules/sass-loader/lib/webpackImporter.js#tail#310;</node>
+            <node x="" y="">$hotChunkFilename$</node>
+            <node x="" y="">$hotMainFilename$</node>
+            <node x="" y="">%PUBLIC_URL%/favicon.ico</node>
+            <node x="" y="">%PUBLIC_URL%/manifest.json</node>
+            <node x="" y="">/__webpack_dev_server__/live.bundle.js</node>
+            <node x="" y="">homepage;</node>
+            <node x="" y="">axios</node>
+            <node x="" y="">execSync;</node>
+            <node x="" y="">config-yargs</node>
+            <node x="" y="">convert-argv</node>
+            <node x="" y="">createHash;</node>
+            <node x="" y="">readFile;</node>
+            <node x="" y="">http</node>
+            <node x="" y="">https</node>
+            <node x="" y="">inspector</node>
+            <node x="" y="">jquery</node>
+            <node x="" y="">builtinModules;</node>
+            <node x="" y="">net</node>
+            <node x="" y="">node-sass</node>
+            <node x="" y="">cpus;</node>
+            <node x="" y="">packageName</node>
+            <node x="" y="">join;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/scripts/eject.js#jest#6633;name;proxy;</node>
+            <node x="" y="">paths.proxySetup</node>
+            <node x="" y="">pkgPath</node>
+            <node x="" y="">popper.js</node>
+            <node x="" y="">Component;</node>
+            <node x="" y="">react-dom</node>
+            <node x="" y="">readline</node>
+            <node x="" y="">stream</node>
+            <node x="" y="">dependencies;</node>
+            <node x="" y="">tls</node>
+            <node x="" y="">runInThisContext;</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.0673503599250567" x="12306.1925329429" y="5535.281844802343" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/route/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/axios/axios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducer/roomReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducer/conferenceReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
